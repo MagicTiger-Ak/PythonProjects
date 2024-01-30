@@ -1,5 +1,5 @@
 def Hello(name):
-    print("Welcome to Github"+name)
+    print("welcome to Github"+name)
 
 result = Hello("MagicTiger")
 print(Hello)
