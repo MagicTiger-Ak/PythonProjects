@@ -1,4 +1,4 @@
 greetings = ["Hello", "world"]
 print(" ".join(greetings))
-name = "Alice"
+name = "Akash"
 print("Hello, "+name+"!")
